@@ -1,0 +1,6 @@
+<download name="Rp_Evocity_V2d" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="2757736" md5="de4944a3818fe5f32826cd173d12ca14"/>
+ </files>
+</download>
